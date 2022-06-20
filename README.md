@@ -1,7 +1,7 @@
 # ybat-clone
 
 > A Vue.js project
-
+> Contact for work: https://facebook.com/ssjblue197
 ## Build Setup
 
 ``` bash
